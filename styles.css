@@ -1,6 +1,9 @@
 body{
-    background-image: url("/Background/982992.jpg");
-    background-size: auto;
+    background: url("Background/982992.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 h1 {
