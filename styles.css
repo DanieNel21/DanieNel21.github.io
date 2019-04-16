@@ -18,3 +18,16 @@ p{
     text-align: center;
     color: azure;
 }
+#gitIcon {
+ padding: auto;
+}
+.githubMain-icon:link {
+    color: azure;
+}
+.githubMain-icon:visited {
+    color: azure;
+}
+.githubMain-icon:hover {
+    color: aqua;
+    text-shadow: 0px 0px 5px deepskyblue;
+}
