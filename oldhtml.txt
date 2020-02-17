@@ -1,0 +1,10 @@
+
+<footer>
+  <ul id= "iconList">
+    <li><a href="https://www.instagram.com/DanielNel21/"></a> <i class="fab fa-instagram"></i></li>
+  </ul>
+  <p>Michael Daniel Nel</p>
+  <p id="contact">Contact Details: 
+      Email: u18028277@tuks.co.za
+  </p>
+</footer>
