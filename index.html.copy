@@ -7,14 +7,23 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link rel="shortcut icon" type="image/x-icon" href="Background/portrait-solid.svg"/>
-  <title>Curriculum Vitae</title>
+  <title>MD Nel website</title>
 </head>
 <body>
 <header>
-  <h1>MD Nel CV</h1>
+  <h1>Welcome to my site</h1>
   <p>My name is Michael Daniel Nel and I am a third year computer science student studying at the University of Pretoria</p>  
 </header> <!-- header -->>
 
+<nav>
+  <ul>
+    <li class="current"><a href="index.html">Home</a></li>
+    <li><a href="aboutme.html">About me</a></li>
+    <li><a href="hobbies.html">Hobbies</a></li>
+    <li><a href="latest.html">Latest</a></li>
+  </ul>
+</nav> <!-- navigation-->
+<br>
 
 <div class="container">
   <div class="content"></div>
