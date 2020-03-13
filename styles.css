@@ -11,8 +11,10 @@ h1 {
     color: azure;
 }
 h2{
-    text-align: center;
+    text-align: left;
     color: azure;
+    margin-left: 35px;
+    font-size: xx-large;
 }
 p{
     text-align: center;
@@ -97,8 +99,14 @@ footer{
   opacity: 80%;
   padding-left: 20%;
   padding-right: 20%;
+  text-align: left;
 
   
+}
+ ul{
+  color: azure;
+  margin-left: 40px;
+  font-size: x-large;
 }
 
 #hobbiestable{
