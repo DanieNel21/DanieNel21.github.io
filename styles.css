@@ -106,8 +106,14 @@ footer{
  ul{
   color: azure;
   margin-left: 40px;
+  font-size: x-large;  
+}
+a {
+  color: azure;
+  margin-left: 40px;
   font-size: x-large;
 }
+
 
 #hobbiestable{
   background-color: aliceblue;
